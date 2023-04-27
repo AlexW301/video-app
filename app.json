@@ -1,0 +1,12 @@
+{
+  "name": "video-app",
+  "displayName": "video-app",
+  "expo": {
+    "name": "video-app",
+    "slug": "video-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
