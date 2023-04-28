@@ -3,7 +3,7 @@ import {View, Text, TouchableOpacity, StyleSheet} from "react-native";
 import Icon from "react-native-vector-icons/FontAwesome5";
 
 export type Props = {
-  onPress: any;
+  onPress?: any;
   iconName: string;
   backgroundColor: string;
   style?: any;
